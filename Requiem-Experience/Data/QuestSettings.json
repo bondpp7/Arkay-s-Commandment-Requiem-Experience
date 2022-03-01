@@ -1,9 +1,9 @@
 {
 	"Override": {
-		"REQ_Quest_Installation": "Misc",
+		"REQ_Quest_Installation": "None",
 		"_SHStartPrompt": "Misc",
 		"SkyrimUnbound.*": "Misc",
-		"ARTHLALChargenQuest": "Misc",
+		"ARTHLALChargenQuest": "None",
 		"ARTHLALRumorsOfWarQuest": "None",
 
 		"MQ101": "Misc",
@@ -86,6 +86,7 @@
 		"FreeformDragonBridge01": [20, 25],
 		"FreeformHighHrothgarA": [20],
 		"FreeformWinterholdA": [30],
-		"FreeformSkyhavenTempleA": [50]
+		"FreeformSkyhavenTempleA": [50],
+		"FreeformRiverwood01": [210, 220]
 	}
 }
